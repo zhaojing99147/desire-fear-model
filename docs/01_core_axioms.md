@@ -1,0 +1,19 @@
+   · docs/02_structure.md
+   · docs/03_laws.md
+   · docs/04_inference.md
+   · docs/05_protocol.md
+   · docs/06_memo.md
+   · docs/07_faq.md
+   · cases/russia_economy.md
+   · cases/hormuz_strait.md
+   · cases/un_veto.md
+   · cases/south_china_sea.md
+   · cases/quit_smoking.md
+   · cases/that_girl.md
+   · cases/hardware_config.md
+   · parameters/template_empty.md
+   · parameters/template_russia.md
+   · parameters/template_hormuz.md
+   · parameters/template_yourself.md
+   · translations/README.ru.md
+   
